@@ -1,4 +1,4 @@
-# Intermediate Statistics Problems (15/25 | 61%)
+# Intermediate Statistics Problems (20/33 | 61%)
 Repository of questions and solutions related to the Master's degree statistical inference course
 
 ## Listas (5/13 38%)
