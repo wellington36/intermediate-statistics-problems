@@ -1,4 +1,4 @@
-# Intermediate Statistics Problems (33/33 | 100%)
+# Intermediate Statistics Problems (33/46 | 72%)
 Repository of questions and solutions related to the Master's degree statistical inference course
 
 ## Listas (13/13 100%)
@@ -13,16 +13,19 @@ Problems | Lista 1 (100%) | Lista 2 (100%)
 #7 | -  | ✅
 #8 | -  | ✅
 
-## Problemas do curso base (20/20 100%)
-Problems | [HW 1](https://www.stat.cmu.edu/~larry/=stat705/homework1.pdf) (100%) | [HW 2](https://www.stat.cmu.edu/~larry/=stat705/Homework2.pdf) (100%) | [HW 3](https://www.stat.cmu.edu/~larry/=stat705/Homework3.pdf) (100%)
-----|----|----|----
-#1  | ✅ | ✅ | ✅
-#2  | ✅ | ✅ | ✅
-#3  | ✅ | ✅ | ✅
-#4  | ✅ | ✅ | ✅
-#5  | ✅ | ✅ | ✅
-#6  | ✅ | -  | -  
-#7  | ✅ | -  | -  
-#8  | ✅ | -  | -  
-#9  | ✅ | -  | -  
-#10 | ✅ | -  | -  
+## Listas de problemas relacionados ao curso (20/33 61%)
+Problems | [HW 1](https://www.stat.cmu.edu/~larry/=stat705/homework1.pdf) (100%) | [HW 2](https://www.stat.cmu.edu/~larry/=stat705/Homework2.pdf) (100%) | [HW 3](https://www.stat.cmu.edu/~larry/=stat705/Homework3.pdf) (100%) | [HW 4](https://github.com/maxbiostat/Statistical_Inference_MSc/blob/main/listas/lista1_InfEst_MSc.pdf) (0%)
+----|----|----|----|----
+#1  | ✅ | ✅ | ✅ | ❌
+#2  | ✅ | ✅ | ✅ | ❌
+#3  | ✅ | ✅ | ✅ | ❌
+#4  | ✅ | ✅ | ✅ | ❌
+#5  | ✅ | ✅ | ✅ | ❌
+#6  | ✅ | -  | -  | ❌
+#7  | ✅ | -  | -  | ❌
+#8  | ✅ | -  | -  | ❌
+#9  | ✅ | -  | -  | ❌
+#10 | ✅ | -  | -  | ❌
+#11 | -  | -  | -  | ❌
+#12 | -  | -  | -  | ❌
+#13 | -  | -  | -  | ❌
