@@ -35,4 +35,4 @@ Problems | [HW 1](https://www.stat.cmu.edu/~larry/=stat705/homework1.pdf) (100%)
 #12 | -  | -  | -  | ❌
 #13 | -  | -  | -  | ❌
 
-obs: _There may be a repeated problem between the files because they are from different places but have similar references._
+obs: _There may be duplicated problems between the files because they are from different places but have similar references._
