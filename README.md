@@ -8,7 +8,7 @@ Repository of questions and solutions related to the Master's degree statistical
 
 
 ## Lists (13/26 50%)
-Problems | Lista 1 (100%) | Lista 2 (100%) | Lista 3 (0%)
+Problems | Lista 1 | Lista 2 | Lista 3
 ----|----|-----|----
 #1  | ✅ | ✅ | ❌
 #2  | ✅ | ✅ | ❌
@@ -25,7 +25,7 @@ Problems | Lista 1 (100%) | Lista 2 (100%) | Lista 3 (0%)
 #13 | -  | -  | ❌
 
 ## Lists of other courses (33/33 100%)
-Problems | [HW 1](https://www.stat.cmu.edu/~larry/=stat705/homework1.pdf) (100%) | [HW 2](https://www.stat.cmu.edu/~larry/=stat705/Homework2.pdf) (100%) | [HW 3](https://www.stat.cmu.edu/~larry/=stat705/Homework3.pdf) (100%) | [HW 4](https://github.com/maxbiostat/Statistical_Inference_MSc/blob/main/listas/lista1_InfEst_MSc.pdf) (0%)
+Problems | [HW 1](https://www.stat.cmu.edu/~larry/=stat705/homework1.pdf) | [HW 2](https://www.stat.cmu.edu/~larry/=stat705/Homework2.pdf) | [HW 3](https://www.stat.cmu.edu/~larry/=stat705/Homework3.pdf) | [HW 4](https://github.com/maxbiostat/Statistical_Inference_MSc/blob/main/listas/lista1_InfEst_MSc.pdf)
 ----|----|----|----|----
 #1  | ✅ | ✅ | ✅ | ✅
 #2  | ✅ | ✅ | ✅ | ✅
