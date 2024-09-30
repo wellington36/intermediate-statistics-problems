@@ -1,4 +1,4 @@
-# Intermediate Statistics Problems (46/69 | 67%)
+# Intermediate Statistics Problems (46/74 | 62%)
 Repository of questions and solutions related to the Master's degree statistical inference course
 
 **Biografia:**
@@ -41,14 +41,14 @@ Problems | [HW 1](https://www.stat.cmu.edu/~larry/=stat705/homework1.pdf) | [HW 
 #12 | -  | -  | -  | ✅
 #13 | -  | -  | -  | ✅
 
-## Exercises from the book (0/10 0%)
-CB Cap. 5 | CB Cap. 6
-----|----
-#31 ❌ | #02 ❌
-#33 ❌ | #06 ❌
-#34 ❌ | #12 ❌
-#36 ❌ | #20 ❌
-#44 ❌ | #26 ❌
+## Exercises from the book (0/15 0%)
+CB Cap. 5 | CB Cap. 6 | CB Cap. 7
+----|----|----
+#31 ❌ | #02 ❌ | #01 ❌
+#33 ❌ | #06 ❌ | #02 ❌
+#34 ❌ | #12 ❌ | #06 ❌
+#36 ❌ | #20 ❌ | #08 ❌
+#44 ❌ | #26 ❌ | #12 ❌
 
 
 obs: _There may be duplicated problems between the files because they are from different places but have similar references._
