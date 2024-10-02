@@ -1,4 +1,4 @@
-# Intermediate Statistics Problems (62/73 | 85%)
+# Intermediate Statistics Problems (68/73 | 93%)
 Repository of questions and solutions related to the Master's degree statistical inference course
 
 **Biografia:**
@@ -7,18 +7,18 @@ Repository of questions and solutions related to the Master's degree statistical
 - [KN] Keener, R. W. (2011). Theoretical Statistics: Topics for a core course. Springer.
 
 
-## Lists (29/35 83%)
+## Lists (35/35 100%)
 Problems | Lista 1 | Lista 2 | Lista 2.5 | Lista 3
 ----|----|-----|----|----
 #1  | ✅ | ✅ | ✅ | ✅
 #2  | ✅ | ✅ | ✅ | ✅
-#3  | ✅ | ✅ | ❌ | ✅
-#4  | ✅ | ✅ | ❌ | ✅
-#5  | ✅ | ✅ | ❌ | ✅
+#3  | ✅ | ✅ | ✅ | ✅
+#4  | ✅ | ✅ | ✅ | ✅
+#5  | ✅ | ✅ | ✅ | ✅
 #6  | -  | ✅ | ✅ | ✅
-#7  | -  | ✅ | ❌ | ✅
-#8  | -  | ✅ | ❌ | ✅
-#9  | -  | -  | ❌ | ✅
+#7  | -  | ✅ | ✅ | ✅
+#8  | -  | ✅ | ✅ | ✅
+#9  | -  | -  | ✅ | ✅
 #10 | -  | -  | -  | ✅
 #11 | -  | -  | -  | ✅
 #12 | -  | -  | -  | ✅
