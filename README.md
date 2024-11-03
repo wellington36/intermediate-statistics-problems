@@ -1,5 +1,5 @@
 # Intermediate Statistics Problems (68/85 | 89%)
-Repository of questions and solutions related to the Master's degree statistical inference course
+Repository of questions and solutions related to the Master's degree statistical inference course (in portuguese).
 
 **Biografia:**
 - [CB] Casella, G., & Berger, R. L. (2002). Statistical Inference. Pacific Grove, CA: Duxbury.
