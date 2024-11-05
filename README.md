@@ -1,4 +1,4 @@
-# Intermediate Statistics Problems (76/85 | 89%)
+# Intermediate Statistics Problems (81/85 | 95%)
 Repository of questions and solutions related to the Master's degree statistical inference course (in portuguese).
 
 **Biografia:**
@@ -24,7 +24,7 @@ Problems | Lista 1 | Lista 2 | Lista 2.5 | Lista 3 | Lista 4
 #12 | -  | -  | -  | ✅ | - 
 #13 | -  | -  | -  | ✅ | - 
 
-## Lists of other courses (41/46 89%)
+## Lists of other courses (46/46 100%)
 Problems | [HW 1](https://www.stat.cmu.edu/~larry/=stat705/homework1.pdf) | [HW 2](https://www.stat.cmu.edu/~larry/=stat705/Homework2.pdf) | [HW 3](https://www.stat.cmu.edu/~larry/=stat705/Homework3.pdf) | [HW 4](https://github.com/maxbiostat/Statistical_Inference_MSc/blob/main/listas/lista1_InfEst_MSc.pdf) | [HW 5](https://wellington36.github.io/exercices/HW%205%20-%20Cap.%207%20P1.pdf)
 ----|----|----|----|----|----
 #1  | ✅ | ✅ | ✅ | ✅ | ✅
@@ -35,11 +35,11 @@ Problems | [HW 1](https://www.stat.cmu.edu/~larry/=stat705/homework1.pdf) | [HW 
 #6  | ✅ | -  | -  | ✅ | ✅
 #7  | ✅ | -  | -  | ✅ | ✅
 #8  | ✅ | -  | -  | ✅ | ✅
-#9  | ✅ | -  | -  | ✅ | ❌
-#10 | ✅ | -  | -  | ✅ | ❌
-#11 | -  | -  | -  | ✅ | ❌
-#12 | -  | -  | -  | ✅ | ❌
-#13 | -  | -  | -  | ✅ | ❌
+#9  | ✅ | -  | -  | ✅ | ✅
+#10 | ✅ | -  | -  | ✅ | ✅
+#11 | -  | -  | -  | ✅ | ✅
+#12 | -  | -  | -  | ✅ | ✅
+#13 | -  | -  | -  | ✅ | ✅
 
 
 obs: _There may be duplicated problems between the files because they are from different places but have similar references._
