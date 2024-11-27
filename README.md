@@ -25,7 +25,7 @@ Problems | Lista 1 | Lista 2 | Lista 2.5 | Lista 3 | Lista 4 | Lista 5
 #13 | -  | -  | -  | ✅ | -  | -
 
 ## Lists of other courses (73/83 88%)
-Problems | [HW 1](https://www.stat.cmu.edu/~larry/=stat705/homework1.pdf) | [HW 2](https://www.stat.cmu.edu/~larry/=stat705/Homework2.pdf) | [HW 3](https://www.stat.cmu.edu/~larry/=stat705/Homework3.pdf) | [HW 4](https://github.com/maxbiostat/Statistical_Inference_MSc/blob/main/listas/lista1_InfEst_MSc.pdf) | [HW 5](https://wellington36.github.io/exercices/HW%205%20-%20Cap.%207%20P1.pdf) | [HW 6](https://wellington36.github.io/exercices/HW%206%20-%20Cap.%207%20P2.pdf) | [HW 7](https://wellington36.github.io/exercices/HW%207%20-%20Cap.%208%20P1.pdf) | [HW 8](https://wellington36.github.io/exercices/HW%208%20-%20Cap.%208%20P2.pdf) | HW 9 | HW 10
+Problems | [HW 1](https://www.stat.cmu.edu/~larry/=stat705/homework1.pdf) | [HW 2](https://www.stat.cmu.edu/~larry/=stat705/Homework2.pdf) | [HW 3](https://www.stat.cmu.edu/~larry/=stat705/Homework3.pdf) | [HW 4](https://github.com/maxbiostat/Statistical_Inference_MSc/blob/main/listas/lista1_InfEst_MSc.pdf) | [HW 5](https://wellington36.github.io/exercices/HW%205%20-%20Cap.%207%20P1.pdf) | [HW 6](https://wellington36.github.io/exercices/HW%206%20-%20Cap.%207%20P2.pdf) | [HW 7](https://wellington36.github.io/exercices/HW%207%20-%20Cap.%208%20P1.pdf) | [HW 8](https://wellington36.github.io/exercices/HW%208%20-%20Cap.%208%20P2.pdf) | [HW 9](https://wellington36.github.io/exercices/HW%209%20-%20Cap.%209.pdf) | HW 10
 ----|----|----|----|----|----|----|----|----|----|----
 #1  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | -  |
 #2  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | -  |
