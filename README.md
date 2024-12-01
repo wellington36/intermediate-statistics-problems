@@ -1,4 +1,4 @@
-# Intermediate Statistics Problems (122/126 | 97%)
+# Intermediate Statistics Problems (122/138 | 88%)
 Repository of questions and solutions related to the Master's degree statistical inference course (in portuguese).
 
 **Biografia:**
@@ -24,22 +24,23 @@ Problems | Lista 1 | Lista 2 | Lista 2.5 | Lista 3 | Lista 4 | Lista 5
 #12 | -  | -  | -  | ✅ | -  | -
 #13 | -  | -  | -  | ✅ | -  | -
 
-## Lists of other courses (79/83 95%)
-Problems | [HW 1](https://www.stat.cmu.edu/~larry/=stat705/homework1.pdf) | [HW 2](https://www.stat.cmu.edu/~larry/=stat705/Homework2.pdf) | [HW 3](https://www.stat.cmu.edu/~larry/=stat705/Homework3.pdf) | [HW 4](https://github.com/maxbiostat/Statistical_Inference_MSc/blob/main/listas/lista1_InfEst_MSc.pdf) | [HW 5](https://wellington36.github.io/exercices/HW%205%20-%20Cap.%207%20P1.pdf) | [HW 6](https://wellington36.github.io/exercices/HW%206%20-%20Cap.%207%20P2.pdf) | [HW 7](https://wellington36.github.io/exercices/HW%207%20-%20Cap.%208%20P1.pdf) | [HW 8](https://wellington36.github.io/exercices/HW%208%20-%20Cap.%208%20P2.pdf) | [HW 9](https://wellington36.github.io/exercices/HW%209%20-%20Cap.%209.pdf) | HW 10
+## Lists of other courses (79/95 83%)
+Problems | [HW 1](https://www.stat.cmu.edu/~larry/=stat705/homework1.pdf) | [HW 2](https://www.stat.cmu.edu/~larry/=stat705/Homework2.pdf) | [HW 3](https://www.stat.cmu.edu/~larry/=stat705/Homework3.pdf) | [HW 4](https://github.com/maxbiostat/Statistical_Inference_MSc/blob/main/listas/lista1_InfEst_MSc.pdf) | [HW 5](https://wellington36.github.io/exercices/HW%205%20-%20Cap.%207%20P1.pdf) | [HW 6](https://wellington36.github.io/exercices/HW%206%20-%20Cap.%207%20P2.pdf) | [HW 7](https://wellington36.github.io/exercices/HW%207%20-%20Cap.%208%20P1.pdf) | [HW 8](https://wellington36.github.io/exercices/HW%208%20-%20Cap.%208%20P2.pdf) | [HW 9](https://wellington36.github.io/exercices/HW%209%20-%20Cap.%209.pdf) | [HW 10](https://github.com/maxbiostat/Statistical_Inference_MSc/blob/main/listas/lista7_InfEst_MSc.pdf1)*
 ----|----|----|----|----|----|----|----|----|----|----
-#1  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | -  |
-#2  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | -  |
-#3  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | -  |
-#4  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | -  |
-#5  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | -  |
-#6  | ✅ | -  | -  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | -  |
-#7  | ✅ | -  | -  | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | -  |
-#8  | ✅ | -  | -  | ✅ | ✅ | -  | ✅ | -  | ❌ | -  |
-#9  | ✅ | -  | -  | ✅ | ✅ | -  | ✅ | -  | ❌ | -  |
-#10 | ✅ | -  | -  | ✅ | ✅ | -  | ✅ | -  | ❌ | -  |
-#11 | -  | -  | -  | ✅ | ✅ | -  | ✅ | -  | -  | -  |
-#12 | -  | -  | -  | ✅ | ✅ | -  | ✅ | -  | -  | -  |
+#1  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
+#2  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
+#3  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
+#4  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
+#5  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
+#6  | ✅ | -  | -  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
+#7  | ✅ | -  | -  | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
+#8  | ✅ | -  | -  | ✅ | ✅ | -  | ✅ | -  | ❌ | ❌ |
+#9  | ✅ | -  | -  | ✅ | ✅ | -  | ✅ | -  | ❌ | ❌ |
+#10 | ✅ | -  | -  | ✅ | ✅ | -  | ✅ | -  | ❌ | ❌ |
+#11 | -  | -  | -  | ✅ | ✅ | -  | ✅ | -  | -  | ❌ |
+#12 | -  | -  | -  | ✅ | ✅ | -  | ✅ | -  | -  | ❌ |
 #13 | -  | -  | -  | ✅ | ✅ | -  | ✅ | -  | -  | -  |
 
+*: Removing extra and already asked questions until reaching the limit of 13 questions.
 
 obs: _There may be duplicated problems between the files because they are from different places but have similar references._
