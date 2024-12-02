@@ -1,5 +1,7 @@
 import random
 
+N = 4 # lengh of lists
+
 # Questions marked as done (checkmarked)
 questions_list = [
     # Intermediate Statistics Problems
@@ -19,7 +21,10 @@ questions_HW = [
 ]
 
 # Randomly select 3 questions from the done list
-random_questions = random.sample(2*questions_list + questions_HW, 3)
+random_questions = random.sample(N*questions_list + questions_HW, 3)
+
+while (len(set(random_questions)) != len(random_questions)):
+    random_questions = random.sample(N*questions_list + questions_HW, 3)
 
 # Display the selected questions
 print("Selected Random Questions:")
