@@ -1,6 +1,6 @@
 import random
 
-N = 4 # lengh of lists
+N = 4    # weight of lists
 
 # Questions marked as done (checkmarked)
 questions_list = [
