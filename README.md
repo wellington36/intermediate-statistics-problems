@@ -8,7 +8,7 @@ Repository of questions and solutions related to the Master's degree statistical
 
 
 ## Lists (43/58 74%)
-Problems | Lista 1 | Lista 2 | Lista 2.5 | Lista 3 | Lista 4 | Lista 5 | Lista 6.1 | Lista 6.2
+Problems | Lista 1 | Lista 2 | Lista 2.5 | Lista 3 | Lista 4 | Lista 5 | Lista 6.1* | Lista 6.2*
 ----|----|-----|----|----|----|----|----|----
 #1  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
 #2  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
@@ -40,5 +40,7 @@ Problems | [HW 1](https://www.stat.cmu.edu/~larry/=stat705/homework1.pdf) | [HW 
 #11 | -  | -  | -  | ✅ | ✅ | -  | ✅ | -  | -  | ❌ |
 #12 | -  | -  | -  | ✅ | ✅ | -  | ✅ | -  | -  | ❌ |
 #13 | -  | -  | -  | ✅ | ✅ | -  | ✅ | -  | -  | ❌ |
+
+*: List 6 was split into 2 because of its size.
 
 obs: _There may be duplicated problems between the files because they are from different places but have similar references._
