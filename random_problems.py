@@ -1,6 +1,7 @@
 import random
 
-N = 4    # weight of lists
+N = 5    # weight of lists
+Q = 1    # number of problems to select
 
 # All questions marked as done (checkmarked)
 all_questions_list = [
@@ -43,15 +44,15 @@ questions_HW = [
     "HW 9 - #01", "HW 9 - #02", "HW 9 - #03", "HW 9 - #04", "HW 9 - #05",
     "HW 9 - #06",
     "HW 10 - #01", "HW 10 - #02", "HW 10 - #03", "HW 10 - #04", "HW 10 - #05",
-    "HW 10 - #06", "HW 10 - #07", "HW 10 - #08", "HW 10 - #09", "HW 10 - #10"
+    "HW 10 - #06", "HW 10 - #07", "HW 10 - #08", "HW 10 - #09"
 ]
 
 
 # Randomly select 3 questions from the done list
-random_questions = random.sample(N*questions_list + questions_HW, 3)
+random_questions = random.sample(N*questions_list + questions_HW, Q)
 
 while (len(set(random_questions)) != len(random_questions)):
-    random_questions = random.sample(N*questions_list + questions_HW, 3)
+    random_questions = random.sample(N*questions_list + questions_HW, Q)
 
 # Display the selected questions
 print("Selected Random Questions:")
