@@ -1,6 +1,6 @@
 import random
 
-N = 5    # weight of lists
+N = 6    # weight of lists
 Q = 1    # number of problems to select
 
 # All questions marked as done (checkmarked)
@@ -22,13 +22,14 @@ all_questions_HW = [
     "HW 9 - #01", "HW 9 - #02", "HW 9 - #03", "HW 9 - #04", "HW 9 - #05",
     "HW 9 - #06",
     "HW 10 - #01", "HW 10 - #02", "HW 10 - #03", "HW 10 - #04", "HW 10 - #05",
-    "HW 10 - #06", "HW 10 - #07", "HW 10 - #08", "HW 10 - #09", "HW 10 - #10"
+    "HW 10 - #06", "HW 10 - #07", "HW 10 - #08", "HW 10 - #09", "HW 10 - #10",
+    "HW 10 - #11", "HW 10 - #12", "HW 10 - #13"
 ]
 
 # Selection of questions
 questions_list = [
     # Intermediate Statistics Problems
-    "Lista 4 - #01", "Lista 4 - #02", "Lista 4 - #03", "Lista 4 - #04",
+    "Lista 4 - #01", "Lista 4 - #02", "Lista 4 - #04",
     "Lista 5 - #01", "Lista 5 - #03", "Lista 5 - #04"
 ]
 
@@ -40,15 +41,16 @@ questions_HW = [
     "HW 7 - #06", "HW 7 - #07", "HW 7 - #08", "HW 7 - #11", "HW 7 - #12",
     "HW 7 - #13",
     "HW 8 - #01", "HW 8 - #02", "HW 8 - #03", "HW 8 - #04", "HW 8 - #05",
-    "HW 8 - #06", "HW 8 - #07",
+    "HW 8 - #07",
     "HW 9 - #01", "HW 9 - #02", "HW 9 - #03", "HW 9 - #04", "HW 9 - #05",
     "HW 9 - #06",
     "HW 10 - #01", "HW 10 - #02", "HW 10 - #03", "HW 10 - #04", "HW 10 - #05",
-    "HW 10 - #06", "HW 10 - #07", "HW 10 - #08", "HW 10 - #09"
+    "HW 10 - #06", "HW 10 - #07", "HW 10 - #08", "HW 10 - #09", "HW 10 - #11",
+    "HW 10 - #12", "HW 10 - #13"
 ]
 
 
-# Randomly select 3 questions from the done list
+# Randomly select Q questions from the done problems
 random_questions = random.sample(N*questions_list + questions_HW, Q)
 
 while (len(set(random_questions)) != len(random_questions)):
