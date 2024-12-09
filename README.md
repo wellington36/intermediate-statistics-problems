@@ -1,4 +1,4 @@
-# Intermediate Statistics Problems (132/164 | 80%)
+# Intermediate Statistics Problems (135/164 | 82%)
 Repository of questions and solutions related to the Master's degree statistical inference course (in portuguese).
 
 **Biografia:**
@@ -24,7 +24,7 @@ Problems | Lista 1 | Lista 2 | Lista 2.5 | Lista 3 | Lista 4 | Lista 5 | Lista 6
 #12 | -  | -  | -  | ✅ | -  | -  | -  | -  |
 #13 | -  | -  | -  | ✅ | -  | -  | -  | -  |
 
-## Lists of other courses (89/106 84%)
+## Lists of other courses (92/106 87%)
 Problems | [HW 1](https://www.stat.cmu.edu/~larry/=stat705/homework1.pdf) | [HW 2](https://www.stat.cmu.edu/~larry/=stat705/Homework2.pdf) | [HW 3](https://www.stat.cmu.edu/~larry/=stat705/Homework3.pdf) | [HW 4](https://github.com/maxbiostat/Statistical_Inference_MSc/blob/main/listas/lista1_InfEst_MSc.pdf) | [HW 5](https://wellington36.github.io/exercices/HW%205%20-%20Cap.%207%20P1.pdf) | [HW 6](https://wellington36.github.io/exercices/HW%206%20-%20Cap.%207%20P2.pdf) | [HW 7](https://wellington36.github.io/exercices/HW%207%20-%20Cap.%208%20P1.pdf) | [HW 8](https://wellington36.github.io/exercices/HW%208%20-%20Cap.%208%20P2.pdf) | [HW 9](https://wellington36.github.io/exercices/HW%209%20-%20Cap.%209.pdf) | [HW 10](https://wellington36.github.io/exercices/HW%2010%20-%20Cap.%208%20P3%20(with%20extra).pdf) | [HW 11](https://wellington36.github.io/exercices/HW%2011%20-%20Cap.%2011.pdf)
 ----|----|----|----|----|----|----|----|----|----|----|----
 #1  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
@@ -37,9 +37,9 @@ Problems | [HW 1](https://www.stat.cmu.edu/~larry/=stat705/homework1.pdf) | [HW 
 #8  | ✅ | -  | -  | ✅ | ✅ | -  | ✅ | -  | ❌ | ✅ | ❌ |
 #9  | ✅ | -  | -  | ✅ | ✅ | -  | ✅ | -  | ❌ | ✅ | ❌ |
 #10 | ✅ | -  | -  | ✅ | ✅ | -  | ✅ | -  | ❌ | ✅ | ❌ |
-#11 | -  | -  | -  | ✅ | ✅ | -  | ✅ | -  | -  | ❌ | -  |
-#12 | -  | -  | -  | ✅ | ✅ | -  | ✅ | -  | -  | ❌ | -  |
-#13 | -  | -  | -  | ✅ | ✅ | -  | ✅ | -  | -  | ❌ | -  |
+#11 | -  | -  | -  | ✅ | ✅ | -  | ✅ | -  | -  | ✅ | -  |
+#12 | -  | -  | -  | ✅ | ✅ | -  | ✅ | -  | -  | ✅ | -  |
+#13 | -  | -  | -  | ✅ | ✅ | -  | ✅ | -  | -  | ✅ | -  |
 
 *: List 6 was split into 2 because of its size.
 
