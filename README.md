@@ -1,4 +1,4 @@
-# Intermediate Statistics Problems (142/161 | 88%)
+# Intermediate Statistics Problems (146/161 | 91%)
 Repository of questions and solutions related to the Master's degree statistical inference course (in portuguese).
 
 **Biografia:**
@@ -7,14 +7,14 @@ Repository of questions and solutions related to the Master's degree statistical
 - [KN] Keener, R. W. (2011). Theoretical Statistics: Topics for a core course. Springer.
 
 
-## Lists (43/58 74%)
+## Lists (47/58 81%)
 Problems | Lista 1 | Lista 2 | Lista 2.5 | Lista 3 | Lista 4 | Lista 5 | Lista 6.1* | Lista 6.2*
 ----|----|-----|----|----|----|----|----|----
-#1  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
-#2  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
-#3  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
+#1  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
+#2  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
+#3  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ |
 #4  | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
-#5  | ✅ | ✅ | ✅ | ✅ | -  | -  | ❌ | ❌ |
+#5  | ✅ | ✅ | ✅ | ✅ | -  | -  | ✅ | ❌ |
 #6  | -  | ✅ | ✅ | ✅ | -  | -  | ❌ | ❌ |
 #7  | -  | ✅ | ✅ | ✅ | -  | -  | -  | ❌ |
 #8  | -  | ✅ | ✅ | ✅ | -  | -  | -  | ❌ |
